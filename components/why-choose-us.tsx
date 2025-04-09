@@ -118,7 +118,7 @@ export default function WhyChooseUs() {
         </StaggeredChildren>
 
         {/* Testimonial Quote */}
-        <AnimateOnScroll animation="fade-up" delay={0.3}>
+        {/* <AnimateOnScroll animation="fade-up" delay={0.3}>
           <div className="mt-16 relative">
             <div className="absolute -top-6 -left-6 text-8xl font-serif text-primary/10">
               "
@@ -141,7 +141,7 @@ export default function WhyChooseUs() {
               </footer>
             </blockquote>
           </div>
-        </AnimateOnScroll>
+        </AnimateOnScroll> */}
       </div>
 
       {/* Background decorative elements */}
